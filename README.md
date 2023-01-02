@@ -2,7 +2,7 @@
 
   # dev Jekyll Theme
 
-  [**Live Demo →**](https://smlee.github.io/dev-theme-demo)
+  [**Live Demo →**](https://smlee.github.io)
 
 </div>
 
