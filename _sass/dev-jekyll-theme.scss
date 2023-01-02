@@ -1,0 +1,24 @@
+/*!
+ * The styles for dev Jekyll theme
+ *
+ * dev v1.0.0 (https://github.com/smlee/dev)
+ * © 2023 Sangmin Lee
+ * MIT Licensed
+ */
+
+@import
+  "colors/light-typography",
+  "colors/dark-typography",
+
+  "addon/module",
+  "addon/variables",
+  "variables-hook",
+  "addon/syntax",
+  "addon/commons",
+
+  "layout/home",
+  "layout/post",
+  "layout/tags",
+  "layout/archives",
+  "layout/categories",
+  "layout/category-tag";
